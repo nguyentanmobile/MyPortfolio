@@ -8,13 +8,13 @@
   </url>
   
   <url>
-    <loc>https://nguyentanmobile.github.io/myfortfolio/2015/05/elements-showcase/</loc>
-    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+    <loc>https://nguyentanmobile.github.io/myfortfolio/2015/05/cover-image-showcase/</loc>
+    <lastmod>2015-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nguyentanmobile.github.io/myfortfolio/2015/05/cover-image-showcase/</loc>
-    <lastmod>2015-05-13T00:00:00+00:00</lastmod>
+    <loc>https://nguyentanmobile.github.io/myfortfolio/2015/05/elements-showcase/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -63,12 +63,31 @@
   </url>
   
   <url>
+    <loc>https://nguyentanmobile.github.io/myfortfolio/categories/andy/</loc>
+    <lastmod>2015-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nguyentanmobile.github.io/myfortfolio/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nguyentanmobile.github.io/myfortfolio/categories/andy1/</loc>
+    <lastmod>2015-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nguyentanmobile.github.io/myfortfolio/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nguyentanmobile.github.io/myfortfolio/categories/</loc>
+    <lastmod>2015-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -80,7 +99,7 @@
   
   <url>
     <loc>https://nguyentanmobile.github.io/myfortfolio/tags/cover-image/</loc>
-    <lastmod>2015-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2015-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -98,7 +117,7 @@
   
   <url>
     <loc>https://nguyentanmobile.github.io/myfortfolio/categories/features/</loc>
-    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2015-03-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -135,12 +154,6 @@
   <url>
     <loc>https://nguyentanmobile.github.io/myfortfolio/tags/html-elements/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nguyentanmobile.github.io/myfortfolio/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
